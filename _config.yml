@@ -50,15 +50,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Rover Willemars and I am a Master's student studying <mark>Computational Cognitive Science</mark> at the University of Groningen. I have an interest in Brain Computer Interfaces and Data Science.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Hi, my name is Rover Willemars and I am a Master's student studying <mark>CCS</mark> (Computational Cognitive Science) at the University of Groningen. I have an interest in Brain Computer Interfaces and Data Science.
 
 content:
   - title: Projects # Title for the section
