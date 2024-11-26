@@ -1,6 +1,2 @@
-*.gem
-.bundle
-.sass-cache
-_site
-*.code-workspace
-vendor
+.DS_Store
+config.codekit3
