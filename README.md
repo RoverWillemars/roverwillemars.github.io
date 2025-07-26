@@ -1,5 +1,5 @@
 ## Personal Webpage
-Check it out here: [Link to personal website]([https://roverwillemars.github.io](https://roverwillemars.github.io/docs-page.html#section-1))
+Check it out here: [Link to personal website]([https://roverwillemars.github.io/docs-page.html#section-1])
 
 This is a webpage that will host some of the learning I do to keep track of the development and so that I have a place to go back to. See it as a diary for programming. The template is collected from the author that is mentioned below. 
 
